@@ -15,5 +15,9 @@ This is an assay with Table Schema and ERD Diargram for a real estate company so
 ## SQL Script
 
 ### Prerequisites for the script
+1. Create the database by running the "CreateDatabaseScript.sql" file
+2. Add values to the data base by running the "InsertIntoDatabaseScript.sql"
+3. Run the Queries of "ProjectQueries.sql"
+
 
 ### Queries
