@@ -21,3 +21,5 @@ This is an assay with Table Schema and ERD Diargram for a real estate company so
 
 
 ### Queries
+1. `Revenue of the company of each house type grouped by year`
+https://github.com/Idokr1/Sale-My-House-SQL/blob/main/ProjectQueries.sql#L4-L11
