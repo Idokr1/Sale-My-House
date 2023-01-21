@@ -8,7 +8,7 @@ This is an assay with Table Schema and ERD Diargram for a real estate company so
 
 ## Table Design
 
-![Table Design](/Assets/Table Design.png)
+![Table Design](/Assets/TableDesign.png)
 
   
 
