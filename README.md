@@ -1,7 +1,7 @@
 
 # Sale My House SQL
 
-This is an assay with Table Schema and ERD Diargram for a real estate company software's Data Base according to client's requirements
+This is an assay with Table Schema and ERD Diagram for a real estate company software's Database according to the client's requirements
 
   ## ERD
 ![ERD](/Assets/ERD.png)
@@ -16,7 +16,7 @@ This is an assay with Table Schema and ERD Diargram for a real estate company so
 
 ### Prerequisites for the script
 1. Create the database by running the "CreateDatabaseScript.sql" file
-2. Add values to the data base by running the "InsertIntoDatabaseScript.sql"
+2. Add values to the database by running the "InsertIntoDatabaseScript.sql"
 3. Run the Queries of "ProjectQueries.sql"
 
 
